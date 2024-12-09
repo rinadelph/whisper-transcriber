@@ -1,0 +1,24 @@
+# Core dependencies
+openai==1.3.7
+pydub==0.25.1
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Audio processing
+numpy==1.24.3
+soundfile==0.12.1
+cffi==1.16.0
+
+# Error handling and retries
+backoff==2.2.1
+tenacity==8.2.3
+
+# Development tools
+black==23.11.0
+isort==5.12.0
+mypy==1.7.0
+pylint==3.0.2
+
+# GUI
+tk==0.1.0
+pillow==10.1.0 
